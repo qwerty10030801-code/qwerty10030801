@@ -21,12 +21,6 @@ Project ini dibuat dengan:
 
 ---
 
-## 🚀 Cara Jalanin
-```bash
-git clone repo_kamu
-cd project
-php artisan serve
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+project!;Jangan+lupa+star+ya!;Coding+itu+seru!&center=true">
 </p>
