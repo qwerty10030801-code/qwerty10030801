@@ -30,5 +30,4 @@ Tiba-tiba lapar 🍜
 Istirahat lagi 😆
 
 
-🐍 Ular Peliharaan Aku 😆
-<p align="center"> <img src="https://raw.githubusercontent.com/qwerty10030801/qwerty10030801/output/github-contribution-grid-snake.svg"> </p>
+
